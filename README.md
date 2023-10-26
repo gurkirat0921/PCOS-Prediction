@@ -1,1 +1,2 @@
 # PCOS-Prediction
+Polycystic ovarian syndrome (PCOS) is a leading cause of infertility among women throughout the world. PCOS is an endocrine abnormality that presents as hyperandrogenemia, anovulation, and/or polycystic ovaries. The exact causes of PCOS are not entirely understood. However, PCOS may be hereditary and associated with abnormalities such as high body mass index (BMI) and obesity, among others. This study is carried out to assess the prevalence and awareness among adolescents and young girls belonging to South India.
